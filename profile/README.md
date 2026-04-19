@@ -4,7 +4,7 @@ Citation infrastructure for dated content. Newsletter operators forward issues t
 
 ## For agent builders
 
-- [`readbyagents-skill`](https://github.com/readbyagents/readbyagents-skill) — Claude Code + Claude Agent SDK skill
+- [`readbyagents/skill`](https://github.com/readbyagents/skill) — Claude Code + Claude Agent SDK skill
 - Capability manifest: [`readbyagents.com/skill.md`](https://readbyagents.com/skill.md)
 - [`AGENTS.md`](https://readbyagents.com/AGENTS.md)
 - Developer docs: [`readbyagents.com/for-agents`](https://readbyagents.com/for-agents)
@@ -17,4 +17,4 @@ Citation infrastructure for dated content. Newsletter operators forward issues t
 ## Contact
 
 - General: `news@readbyagents.com`
-- Security: see [SECURITY.md](https://github.com/readbyagents/readbyagents-skill/blob/main/SECURITY.md) in the skill repo
+- Security: see [SECURITY.md](https://github.com/readbyagents/skill/blob/main/SECURITY.md) in the skill repo
